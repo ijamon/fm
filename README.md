@@ -1,6 +1,6 @@
-# File Manager (Java backend impl)
+# File Manager (Java 8 backend impl)
 
-This is an implementation for the backend of File Manager in Java.
+This is an implementation for the backend of File Manager in Java 8.
 
 Main features:
 - Excellent working with huge directories (via native Qt library)
