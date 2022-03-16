@@ -1,5 +1,4 @@
-# fm
-File Manager (Java backend impl)
+# File Manager (Java backend impl)
 
 This is a implementation for the backend of File Manager in Java.
 
